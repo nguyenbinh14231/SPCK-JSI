@@ -1,0 +1,20 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#nav {
+    background-color: #121212;
+    padding: 20px 0px;
+    margin: 0px;
+    display: flex;
+    
+}
+
+.brand-icon, .menu-icon, .watch-list-icon{
+    color: #ffffff;
+}
+
+.menu-text, .watch-list-text {
+    color: #ffffff;
+}
